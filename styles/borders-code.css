@@ -1,0 +1,18 @@
+/*
+Feel free to use some of this code
+*/
+.left-red {
+  border-left: 5px solid #FF0000;
+}
+.left-darkred {
+  border-left: 5px solid #BD1717;
+}
+.left-blue {
+  border-left: 5px solid #0000FF;
+}
+.left-skyblue {
+  border-left: 5px solid #87CEEB;
+}
+.left-darkblue {
+  border-left: 5px solid #141475;
+}
